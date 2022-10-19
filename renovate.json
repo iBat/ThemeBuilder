@@ -3,7 +3,6 @@
     "config:js-app"
   ],
   "includeForks": true,
-  "prConcurrentLimit": 2,
   "semanticCommits": "enabled",
   "labels": [
     "dependencies"
