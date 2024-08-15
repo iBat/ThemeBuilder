@@ -22,7 +22,7 @@
         "@angular/router": "12.2.16",
         "@ngtools/webpack": "12.2.18",
         "core-js": "2.6.12",
-        "devextreme": "22.1.5",
+        "devextreme": "22.2.13",
         "devextreme-angular": "22.1.5",
         "devextreme-themebuilder": "22.1.5",
         "file-saver": "2.0.5",
