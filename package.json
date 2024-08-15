@@ -24,7 +24,7 @@
         "core-js": "2.6.12",
         "devextreme": "22.1.5",
         "devextreme-angular": "22.1.5",
-        "devextreme-themebuilder": "22.1.5",
+        "devextreme-themebuilder": "22.2.13",
         "file-saver": "2.0.5",
         "jszip": "3.10.1",
         "jszip-utils": "0.1.0",
