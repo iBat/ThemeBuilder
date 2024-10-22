@@ -39,7 +39,7 @@
         "@angular/cli": "12.2.18",
         "@angular/compiler-cli": "12.2.16",
         "@angular/language-service": "12.2.16",
-        "@babel/core": "7.19.3",
+        "@babel/core": "7.25.9",
         "@types/node": "ts4.2",
         "@typescript-eslint/eslint-plugin": "2.34.0",
         "@typescript-eslint/parser": "2.34.0",
